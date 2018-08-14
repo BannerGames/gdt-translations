@@ -2322,16 +2322,16 @@ msgid "Orchestral soundtrack"
 msgstr "Trilha sonora orquestrada"
 
 msgid "A.I."
-msgstr "A.I."
+msgstr "I.A."
 
 msgid "Better A.I."
-msgstr "A.I. Melhorada"
+msgstr "I.A. Melhorada"
 
 msgid "A.I. Companions"
-msgstr "Companheiros de A.I."
+msgstr "Companheiros de I.A."
 
 msgid "Self-learning A.I."
-msgstr "A.I. de Auto-aprendizagem"
+msgstr "I.A. de Auto-aprendizagem"
 
 msgid "Achievements"
 msgstr "Conquistas"
@@ -2346,7 +2346,7 @@ msgid "Savegame"
 msgstr "Salvar jogo"
 
 msgid "Multiplayer"
-msgstr "Multiplayer"
+msgstr "Multijogador"
 
 msgid "Video playback"
 msgstr "Reprodução de vídeo"
@@ -2403,7 +2403,7 @@ msgid "Dialogue tree"
 msgstr "Árvore de diálogos"
 
 msgid "Voice over"
-msgstr "Dublagem vocal"
+msgstr "Dobragem vocal"
 
 msgid "Simple body language"
 msgstr "Linguagem corporal simples"
@@ -2412,7 +2412,7 @@ msgid "Advanced body language"
 msgstr "Linguagem corporal avançada"
 
 msgid "Celebrity voice acting"
-msgstr "Dublagem com celebridades"
+msgstr "Dobragem com celebridades"
 
 msgid "Realistic body language"
 msgstr "Linguagem corporal realista"
@@ -2503,10 +2503,10 @@ msgid "After careful examination we come to the conclusion that the internet is 
 msgstr ""
 "Após uma cuidadosa análise, chegamos à conclusão de que a internet é uma "
 "grande oportunidade na indústria de jogos. Já vimos alguns pequenos sinais "
-"de quão bem sucedidos podem ser os jogos multiplayer, mas multiplayer "
+"de quão bem sucedidos podem ser os jogos multijogador, mas multijogador "
 "geralmente é uma característica adicional para um jogo e não o foco "
 "principal.{n}Achamos que poderíamos desenvolver tecnologias para criar um "
-"jogo multiplayer massivo online (diminutivo MMO), um jogo onde dezenas de "
+"jogo multijogador massivo online (diminutivo MMO), um jogo onde dezenas de "
 "milhares de jogadores podem jogar juntos. Para criar o tal MMO, mais "
 "pesquisas serão necessárias.{n}A segunda descoberta é que podemos começar a "
 "desenvolver uma plataforma de distribuição online. Em vez de comprar jogos "
